@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="源文件\Practise1">
+      <UniqueIdentifier>{ae3cf41b-9980-44e0-a7a7-c5dbc3219342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise2">
+      <UniqueIdentifier>{3fe4d87d-f412-40de-87d5-42917ba73f1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise3">
+      <UniqueIdentifier>{a8eb444f-16bf-441a-9a88-04fa92956178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise4">
+      <UniqueIdentifier>{9f3c8074-fc31-41a1-96d7-d17dbafccf5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise5">
+      <UniqueIdentifier>{fd004d4f-b93a-47ff-ae4f-224031f2bd03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise6">
+      <UniqueIdentifier>{971ae640-8230-4635-9995-1134e1cf8782}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise7">
+      <UniqueIdentifier>{97b98a06-5d1a-4126-8f10-5e674026bd99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise5\huochedingpiabo">
+      <UniqueIdentifier>{139b8628-a7bf-4238-82da-867a80deb4fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise5\studentmessage">
+      <UniqueIdentifier>{81022998-0735-4368-b56d-0b76c284eefa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise5\tuozhan">
+      <UniqueIdentifier>{6978c3b6-b286-4d09-bac9-20e59e3bdf30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise6\yuesefu">
+      <UniqueIdentifier>{da49df7b-e580-4de5-b142-2bf216111f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practise6\bankAappointmentAsystem">
+      <UniqueIdentifier>{7696165c-a31a-47ae-bd73-00e0a59dd3de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise1\Practise1.cpp">
+      <Filter>源文件\Practise1</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise2\Practise2.cpp">
+      <Filter>源文件\Practise2</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise3\Practise3.cpp">
+      <Filter>源文件\Practise3</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise4\Practise4.cpp">
+      <Filter>源文件\Practise4</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\Practise5.cpp">
+      <Filter>源文件\Practise5</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise6\Practise6.cpp">
+      <Filter>源文件\Practise6</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise7\Practise7.cpp">
+      <Filter>源文件\Practise7</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\huochedingpiao\huochedingpiao.cpp">
+      <Filter>源文件\Practise5\huochedingpiabo</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\huochedingpiao\systemManage.cpp">
+      <Filter>源文件\Practise5\huochedingpiabo</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\huochedingpiao\stationManage.cpp">
+      <Filter>源文件\Practise5\huochedingpiabo</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\huochedingpiao\ticketManage.cpp">
+      <Filter>源文件\Practise5\huochedingpiabo</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\huochedingpiao\ticketServices.cpp">
+      <Filter>源文件\Practise5\huochedingpiabo</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\studentmessage\studentmessage.cpp">
+      <Filter>源文件\Practise5\studentmessage</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise5\tuozhan\tuozhan.cpp">
+      <Filter>源文件\Practise5\tuozhan</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise6\yuesefu\yuesefu.cpp">
+      <Filter>源文件\Practise6\yuesefu</Filter>
+    </ClCompile>
+    <ClCompile Include="Practise6\bankAappointmentAsystem\bankAappointmentAsystem.cpp">
+      <Filter>源文件\Practise6\bankAappointmentAsystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise1\Practise1.h">
+      <Filter>源文件\Practise1</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise2\Practise2.h">
+      <Filter>源文件\Practise2</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise3\Practise3.h">
+      <Filter>源文件\Practise3</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise4\Practise4.h">
+      <Filter>源文件\Practise4</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise5\Practise5.h">
+      <Filter>源文件\Practise5</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise6\Practise6.h">
+      <Filter>源文件\Practise6</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise7\Practise7.h">
+      <Filter>源文件\Practise7</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise5\huochedingpiao\huochedingpiao.h">
+      <Filter>源文件\Practise5\huochedingpiabo</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise5\studentmessage\studentmessage.h">
+      <Filter>源文件\Practise5\studentmessage</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise5\tuozhan\tuozahn.h">
+      <Filter>源文件\Practise5\tuozhan</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise6\yuesefu\yuesefu.h">
+      <Filter>源文件\Practise6\yuesefu</Filter>
+    </ClInclude>
+    <ClInclude Include="Practise6\bankAappointmentAsystem\bankAappointmentAsystem.h">
+      <Filter>源文件\Practise6\bankAappointmentAsystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
